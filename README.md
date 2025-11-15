@@ -94,13 +94,13 @@ Comment "0..1" -- "0..N" Comment : parentCommentId
 
 ## 4. Відобразити модель у середовищі програмування або документації
 
-```Swift + Realm framework
+```swift
 class User: Object {
     @Persisted(primaryKey: true) var userId: UUID
     @Persisted var email: String
     @Persisted var password: String
     @Persisted var nickname: String
-    @Persisted var userImageUrl: String
+    @Persisted var userImageUrl: String?
     @Persisted var createdAt: Date
 }
 
