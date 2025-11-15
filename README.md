@@ -15,9 +15,9 @@
 
 ## 2. Діаграма «Воронячі лапки» (Crow’s Foot)
 
+![diagram](CROWKPI.drawio.svg)
+
 ## 3. Діаграма в PlantUML 
 
 [Посилання](https://www.planttext.com)
 
-
-![diagram](CROWKPI.drawio.svg)
