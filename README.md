@@ -92,7 +92,7 @@ Tag "1" -- "0..N" PostTags
 Comment "0..1" -- "0..N" Comment : parentCommentId
 ```
 
-## 4. Відобразити модель у середовищі програмування або документації
+## 4. Відобразити модель у середовищі програмування (Swift)
 
 ```swift
 class User: Object {
