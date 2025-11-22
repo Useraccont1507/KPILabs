@@ -116,7 +116,7 @@ Tags ..> PC : <<extend>>
 - F2: The application shall automatically follow the system theme unless the user  manually overrides it.
 - F3: The application shall support multiple languages (e.g., English + Ukrainian).
 - F4: All user-visible text shall be stored in localization files.
-- F4: iOS 15, Android 8.0.
+- F4: minimum OS version iOS 15, Android 8.0.
 - F5: The application shall render correctly on both phones and tablets.
 - F6: The application shall support Dynamic Type / Font Scaling.
 - F7: The UI shall maintain readable contrast levels in both themes.
